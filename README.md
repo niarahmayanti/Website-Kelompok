@@ -1,2 +1,1 @@
-# Website-Kelompok
-Web
+Antrian Bioskop - Complete (PHP + MySQL) - ready for XAMPP\nFollow README in project.
